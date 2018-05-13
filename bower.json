@@ -1,0 +1,21 @@
+{
+  "name": "cryptolib",
+  "authors": [
+    "Tsiry Sandratraina <tsiryid@gmail.com>"
+  ],
+  "description": "Javascript library of crypto standards.",
+  "main": "crypto-js.js",
+  "keywords": [
+    "AES",
+    "crypto"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
